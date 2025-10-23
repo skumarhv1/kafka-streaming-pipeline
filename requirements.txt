@@ -1,0 +1,6 @@
+# requirements.txt
+kafka-python==2.0.2
+mysql-connector-python==8.0.33
+pandas==1.5.3
+numpy==1.24.3
+pyyaml==6.0
